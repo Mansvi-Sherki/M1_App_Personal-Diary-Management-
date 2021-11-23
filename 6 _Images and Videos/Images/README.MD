@@ -20,4 +20,4 @@ E. To EDIT the Records
 
 ![Image 6](https://user-images.githubusercontent.com/94228353/143011526-19785dac-b36e-43fa-b64e-eeb65548c9cc.jpeg)
 
-
+![Image 7](https://user-images.githubusercontent.com/94228353/143011707-bb78cf96-31c1-4dd8-8000-357c7630a8f6.jpeg)
