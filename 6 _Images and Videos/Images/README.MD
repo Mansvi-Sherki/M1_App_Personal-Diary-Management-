@@ -25,4 +25,7 @@ E. To EDIT the Records
 
 ![Image 8](https://user-images.githubusercontent.com/94228353/143011886-def59fec-9c1a-4919-8ae4-f16b61373bc8.jpeg)
 
+F. To DELETE the Records.
+
+![Image 9](https://user-images.githubusercontent.com/94228353/143012242-b5faea53-d540-448c-a737-566b349d692b.jpeg)
 
