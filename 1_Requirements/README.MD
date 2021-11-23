@@ -2,7 +2,7 @@
 
 # Introduction 
 This miniproject is developed in C Programming Language.It helps the users to keep the daily record of their important meetings, presentations, functions etc..
-
+The term diary is some time called personal diaries, normally intended to remain private or to have a limited circulation amongst friends or relative
 It's just like the records which we keep in our personal Diary.
 
 In this Miniproject you can add,edit,delete and view the records.
@@ -11,6 +11,9 @@ Here you can add the records such as Date, Time, Place and the person you are go
 
 # Research
 This is a password protected Diary system to increase the security standards for the same.
+
+The purpose of the system is to help you keep and manage the time for your incoming events.
+
 
 # Cost and Features and Timeline
 
