@@ -18,5 +18,6 @@ E. To EDIT the Records
 
 ![Image 5](https://user-images.githubusercontent.com/94228353/143011319-1303296b-74c5-4a97-90c7-dc5dbdb9c649.jpeg)
 
+![Image 6](https://user-images.githubusercontent.com/94228353/143011526-19785dac-b36e-43fa-b64e-eeb65548c9cc.jpeg)
 
 
