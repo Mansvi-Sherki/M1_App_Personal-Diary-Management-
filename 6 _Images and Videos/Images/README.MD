@@ -6,4 +6,7 @@ B. To ADD the Records in the Diary.
 
 ![Image 2](https://user-images.githubusercontent.com/94228353/143009495-a3971d53-122c-460f-bb0a-3b51da75fe1d.jpeg)
 
+C.To VIEW the added Record.
+
+![Image 3](https://user-images.githubusercontent.com/94228353/143009797-fa66ba62-2177-40f0-93b2-19f25005002c.jpeg)
 
