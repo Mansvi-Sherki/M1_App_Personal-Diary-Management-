@@ -57,10 +57,15 @@ It is developed using C Programming language
 # High Level Requirements
 
 HLR1	Add the inputs to add records,edit,view and delete.
+
 HRL2	Users can add the record in the system.
+
 HLR3	Can view that record for further.
+
 HRL4	User can Edit the added record and can make some changes in it.
+
 HRL5	Can delete the record permanently if not needed.
+
 HRL6	User can edit the Password for security purpose.
 
 
