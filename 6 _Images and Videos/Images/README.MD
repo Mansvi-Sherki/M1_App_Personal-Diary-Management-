@@ -4,5 +4,6 @@ A. WELCOME PAGE OF THE PROJECT
 
 B. To ADD the Records in the Diary.
 
+![Image 2](https://user-images.githubusercontent.com/94228353/143009495-a3971d53-122c-460f-bb0a-3b51da75fe1d.jpeg)
 
 
