@@ -46,14 +46,14 @@ It can be used by Travel Agents or doctors infact anyone can use it to keep thei
 
 # When
 
-It has to be deployed 25th of November 2021.
+Whenever the user wants to keep his personal records safe at a place.
 
-# Why
+# Who
 
-To improve my Coding skills 
+Anybody can use it.
 
 # How
-It is developed using C Programming language
+It will keep your all personal records safely at one place.
 
 # Detail Requirements:-
 
