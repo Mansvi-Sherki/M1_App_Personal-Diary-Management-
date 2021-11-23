@@ -10,3 +10,8 @@ C.To VIEW the added Record.
 
 ![Image 3](https://user-images.githubusercontent.com/94228353/143009797-fa66ba62-2177-40f0-93b2-19f25005002c.jpeg)
 
+D.WHLOLE RECORD is Visible to the Users.
+
+![Image 4](https://user-images.githubusercontent.com/94228353/143010093-6b9e859e-2715-442a-bdff-85bb82601498.jpeg)
+
+
