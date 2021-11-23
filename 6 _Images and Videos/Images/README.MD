@@ -14,4 +14,9 @@ D.WHLOLE RECORD is Visible to the Users.
 
 ![Image 4](https://user-images.githubusercontent.com/94228353/143010093-6b9e859e-2715-442a-bdff-85bb82601498.jpeg)
 
+E. To EDIT the Records
+
+![Image 5](https://user-images.githubusercontent.com/94228353/143011319-1303296b-74c5-4a97-90c7-dc5dbdb9c649.jpeg)
+
+
 
