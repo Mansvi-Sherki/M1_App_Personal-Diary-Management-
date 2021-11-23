@@ -55,7 +55,7 @@ Anybody can use it.
 # How
 It will keep your all personal records safely at one place.
 
-# Detail Requirements:-
+
 
 # High Level Requirements
 
